@@ -112,7 +112,7 @@ li {
 }
 
 .htrl-image--forest-intro {
-    background-image: url(/assets/imgs/slidebar/forest.jpg);
+    background-image: url(assets/imgs/slidebar/forest.jpg);
     height: var(--forest-intro-height);   
 }
 
@@ -179,7 +179,7 @@ li {
     position: relative;
 }
 .htrl-slidebar__image {
-    background-image: url(/assets/imgs/slidebar/forest.jpg);
+    background-image: url(assets/imgs/slidebar/forest.jpg);
     height: var(--slidebar-height);
 }
 
